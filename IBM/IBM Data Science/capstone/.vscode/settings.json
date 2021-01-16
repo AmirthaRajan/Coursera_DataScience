@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "c:\\Users\\amipks\\.conda\\envs\\capstone\\python.exe"
+}
